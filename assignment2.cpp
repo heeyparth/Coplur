@@ -20,7 +20,7 @@ class NotificationSystem
     
     void SystemAlert ()
     {
-        cout<< "hey one alert foud !" << endl;
+        cout<< "hey one alert found !" << endl;
     }
 
 };
